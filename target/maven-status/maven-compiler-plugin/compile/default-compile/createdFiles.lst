@@ -1,0 +1,4 @@
+com\vinod\aws\lambda\SpringbootAwsLambdaApplication.class
+com\vinod\aws\lambda\domain\Order.class
+com\vinod\aws\lambda\respository\OrderDao.class
+com\vinod\aws\lambda\OrderHandler.class
